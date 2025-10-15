@@ -43,7 +43,7 @@ const API_SITES = {
         detail: 'https://tyyszy.com/,https://t.me/tyyszy', 
     },
     ffzy: {
-        api: 'http://ffzy5.tv/api.php/provide/vod',
+        api: 'https://api.ffzyapi.com/api.php/provide/vod',
         name: '非凡影视',
         detail: 'http://ffzy5.tv,https://t.me/ffzy_tv 国外IP无法访问', 
     },
@@ -74,7 +74,7 @@ const API_SITES = {
     },
     mdzy: {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
-        name: '魔都资源',
+        name: '魔都资源(主动漫)',
         detail: 'https://www.mdzyapi.com/,https://t.me/mdzyw', 
     },
     zuid: {
