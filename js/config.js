@@ -29,7 +29,7 @@ const SITE_CONFIG = {
 // },
 const API_SITES = {
     dyttzy: {
-        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json',
         name: '电影天堂资源',
         note: 'http://caiji.dyttzyapi.com,https://t.me/dyttzytv',
     },
