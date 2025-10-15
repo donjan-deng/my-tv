@@ -49,7 +49,7 @@ const API_SITES = {
         note: 'https://tyyszy.com/,https://t.me/tyyszy',
     },
     ffzy: {
-        api: 'https://api.ffzyapi.com/api.php/provide/vod',
+        api: 'http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/json',
         name: '非凡影视',
         note: 'http://ffzy5.tv,https://t.me/ffzy_tv 国外IP无法访问',
     },
@@ -64,7 +64,7 @@ const API_SITES = {
         note: 'https://wolongzyw.com/,https://t.me/wolongzywcom',
     },
     jisu: {
-        api: 'https://jszyapi.com/api.php/provide/vod',
+        api: 'https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json',
         name: '极速资源',
         note: 'https://jszyapi.com,https://t.me/jisuziyuanzhan',
     },
@@ -89,7 +89,7 @@ const API_SITES = {
         note: '',
     },
     yinghua: {
-        api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
+        api: 'https://m3u8.apiyhzy.com/api.php/provide/vod/at/json',
         name: '樱花资源',
         note: 'https://help.apiyhzy.com/,https://t.me/yinghuazy',
     },
@@ -109,12 +109,12 @@ const API_SITES = {
         note: 'https://wwzy.tv/,',
     },
     ikun: {
-        api: 'https://ikunzyapi.com/api.php/provide/vod',
+        api: 'https://ikzy1.com/api.php/provide/vod',
         name: 'iKun资源',
         note: 'https://ikunzy.com/,https://t.me/ikunzyz',
     },
     lzi: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod/',
+        api: 'https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/json',
         name: '量子资源站',
         note: 'https://lzizy.net,https://t.me/+-hMw2asuTgJhZjk1target=',
     },
