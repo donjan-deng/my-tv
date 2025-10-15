@@ -24,14 +24,13 @@ const SITE_CONFIG = {
 // dyttzy: {
 //     api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',列表接口
 //     name: '电影天堂资源',
-//     detail:'http://caiji.dyttzyapi.com/api.php/provide/vod',详情接口
+//     detail:'http://caiji.dyttzyapi.com/api.php/provide/vod',详情接口，一般不要这个KEY，见API_CONFIG拼接
 //     note: 'http://caiji.dyttzyapi.com,https://t.me/dyttzytv', 备注
 // },
 const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
-        detail: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         note: 'http://caiji.dyttzyapi.com,https://t.me/dyttzytv',
     },
     ruyi: {
