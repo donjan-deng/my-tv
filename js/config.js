@@ -104,7 +104,7 @@ const API_SITES = {
         note: 'https://wujinzy.com/,https://t.me/+YGQkpWukR79hMTU1',
     },
     wwzy: {
-        api: 'https://ww.tyyszy5.com/api.php/provide/vod',
+        api: 'https://api.wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧',
         note: 'https://wwzy.tv/,',
     },
